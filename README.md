@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://madebysaint.xyz">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=C0532E&center=true&vCenter=true&width=640&lines=I+design+products%2C+then+I+build+them.;Fintech+%C2%B7+AI+tooling+%C2%B7+design+systems;Currently+shipping+Spendprofile+and+Urcrib;Based+in+Lagos%2C+working+with+teams+everywhere" alt="I design products, then I build them." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=C0532E&center=true&vCenter=true&width=640&lines=I+design+products%2C+then+I+build+them.;Fintech+%C2%B7+AI+tooling+%C2%B7+design+systems;Currently+shipping+Spendprofile+and+Urcrib;Working+with+teams+across+three+continents" alt="I design products, then I build them." />
 </a>
 </p>
 
@@ -108,7 +108,7 @@ Plus LLM integration, MCP servers, document parsing pipelines and agent-driven b
 - Turning messy real-world documents into clean data
 - Design systems that engineers actually use
 - Building with AI coding agents without losing the plot
-- Shipping for Nigerian users, from bank statements to floor tiles
+- Designing for messy real-world inputs, from bank statements to floor tiles
 
 </details>
 
